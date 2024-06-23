@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimarketek.github.io/sitemap.xml
